@@ -4,7 +4,7 @@
 
 ## Publicado
 
-[Landing Page]()
+[Landing Page](https://landing-page-psi-one-98.vercel.app/)
 
 Landing Page desenvolvida utilizando quase todos os elementos **HTML** com estilização em **CSS** e 
 **JavaScript** inline.
