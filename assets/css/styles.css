@@ -97,7 +97,7 @@ table caption {
 }
 
 .main-bg {
-    background-image: url('/assets/img/main-bg.svg');
+    background-image: url('https://servidor-estatico-tan.vercel.app/main-bg.svg');
     background-position: center center;
     background-size: cover;
     color: var(--white-color);
